@@ -56,8 +56,7 @@ feue-uleam/
 ├── 📄 index.html             # Página de inicio (Landing Page principal de la FEUE)
 └── 📄 README.md              # Documentación oficial y lineamientos del repositorio
 ```
-📜 Créditos y Derechos
-Todos los derechos reservados © 2026 - FEUE ULEAM.
+📜 Todos los derechos reservados © 2026 - FEUE ULEAM.
 
 Iniciativa desarrollada e impulsada por el Coordinador General de la FEUE ULEAM 2025-2027.
 
