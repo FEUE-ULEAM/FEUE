@@ -68,11 +68,11 @@ Ubicación: Guarda las imágenes generales en la carpeta /assets/ o dentro de la
 
 🔄 Protocolo de Traspaso de Mando (Cambio de Directiva)
 
-Al concluir el período administrativo de la directiva vigente, el Coordinador General y el Secretario de Comunicación / Tecnología salientes deberán cumplir con el siguiente checklist:
+Al concluir el período administrativo de la directiva vigente, el Coordinador/a General, Secretario/a General y el Secretario/a de Comunicación / Tecnología salientes deberán cumplir con el siguiente checklist:
 
 [ ] Transferencia de propiedad en GitHub: Agregar a los nuevos representantes como administradores (Admin / Maintainer) en Settings > Collaborators and teams del repositorio.
 
-[ ] Entrega de accesos externos: Transferir las credenciales de la cuenta administradora de Firebase / Base de Datos (si aplica) y verificar con la Dirección de Tecnología (DITIC) de la ULEAM la continuidad del apuntamiento DNS para feue.uleam.edu.ec.
+[ ] Entrega de accesos externos: Transferir las credenciales de la cuenta administradora de Firebase / Base de Datos (si aplica) y verificar con la Dirección de Tecnología (DIIT) de la ULEAM la continuidad del apuntamiento DNS para feue.uleam.edu.ec.
 
 [ ] Limpieza de módulos antiguos: Mover o archivar enlaces de eventos pasados que ya no estén vigentes en la página principal (index.html), manteniendo el historial en el repositorio.
 
