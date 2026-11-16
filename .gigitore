@@ -1,0 +1,66 @@
+==============================================================================
+
+CONFIGURACIÓN DE SEGURIDAD Y LIMPIEZA - REPOSITORIO FEUE ULEAM
+
+Este archivo evita que Git suba archivos basura, configuraciones locales
+
+o datos sensibles al repositorio público.
+
+==============================================================================
+
+1. Archivos del Sistema Operativo
+
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+2. Configuraciones de Editores de Código (VS Code, Sublime, etc.)
+
+.vscode/
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+3. Variables de Entorno y Credenciales (CRÍTICO - NO ELIMINAR)
+
+.env
+.env.local
+.env.development
+.env.production
+*.pem
+*.key
+.p12
+secrets.js
+config.local.js
+firebase-adminsdk.json
+serviceAccountKey.json
+
+4. Bases de Datos, Respaldos y Listados Privados
+
+*.csv
+*.xlsx
+*.xls
+*.sql
+*.sqlite
+*.db
+*.bak
+backup/
+respaldos/
+datos-privados/
+
+5. Dependencias y Archivos Temporales (en caso de usar herramientas de build)
+
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.cache/
+dist/
+build/
