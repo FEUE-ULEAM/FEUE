@@ -55,3 +55,10 @@ feue-uleam/
 ├── 📄 CNAME                  # Configuración de dominio personalizado (feue.uleam.edu.ec)
 ├── 📄 index.html             # Página de inicio (Landing Page principal de la FEUE)
 └── 📄 README.md              # Documentación oficial y lineamientos del repositorio
+```
+📜 Créditos y Derechos
+Todos los derechos reservados © 2026 - FEUE ULEAM.
+
+Iniciativa desarrollada e impulsada por el Coordinador General de la FEUE ULEAM 2025-2027.
+
+El código base se mantiene abierto para fines de transparencia, auditoría y continuidad institucional de la representación estudiantil universitaria, los contenidos e imagen deben mantener el respeto y homogeneidad institucional, la administración y el contenido publicado son responsabilidad de la FEUE ULEAM y deberán mantenerse dentro de las políticas y normativas vigentes de la Universidad Laica Eloy Alfaro de Manabi. La Dirección Institucional se reserva la facultad de suspender el subdominio en caso de incumplimiento.
