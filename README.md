@@ -19,7 +19,7 @@ Infraestructura digital iniciativa **Coordinación General de la FEUE ULEAM 2026
 
 ## 🔒 Políticas de Seguridad y Privacidad (Lectura Obligatoria)
 
-⚠️ **ESTE ES UN REPOSITORIO PÚBLICO.** Cualquier archivo subido a este espacio puede ser visto y descargado por cualquier persona en internet. 
+⚠️ **ESTE ES UN REPOSITORIO PÚBLICO.** Cualquier archivo subido a este espacio puede ser visto y descargado por cualquier persona en la red. 
 
 Para proteger la integridad de la organización y cumplir con la Ley Orgánica de Protección de Datos Personales (LOPDP), **queda estrictamente prohibido**:
 1. **Exponer datos personales:** Nunca subir bases de datos en Excel, CSV, JSON o código fuente que contengan nombres completos vinculados a números de cédula, teléfonos personales, correos privados o direcciones de estudiantes y docentes.
