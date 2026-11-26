@@ -2,7 +2,7 @@
   const music = document.getElementById('background-music');
   const toggle = document.getElementById('music-toggle');
   const status = document.getElementById('music-status');
-  const audioPath = 'assets/audio/fondo-radio.mp3';
+  const audioPath = 'assets/audio/fondo-relajante.mp3';
   let manuallyPaused = false;
   let unavailable = false;
 
